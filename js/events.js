@@ -4,16 +4,10 @@ $('p').on('click')
 return alert("Hey!")
 }
 
-
-
-function frameIt(){
-  $('img').on('load')
-  $('img').css('tasty')
-
 }
 $(document).ready(function(){
 
-frameIt()
+getIt()
 
 // call functions here
 
@@ -23,7 +17,7 @@ frameIt()
 function pressIt(){
 $('#typing').on('keydown' function(key){
   if(key.which == 83){
-      return  alert('G was pressed');
+      return alert('G was pressed');
 
 })
 
