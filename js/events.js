@@ -9,7 +9,7 @@ $('img').css('tasty') )
 
 }
 $(document).ready(function(){
-getit()
+
 frameIt()
 // call functions here
 
