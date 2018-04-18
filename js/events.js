@@ -14,19 +14,3 @@ getIt()
 
 });
 
-function pressIt(){
-$('#typing').on('keydown' function(key){
-  if(key.which == 83){
-      return alert('G was pressed');
-
-})
-
-}}
-$(document).ready(function(){
-
-pressIt()
-
-// call functions here
-
-
-});
