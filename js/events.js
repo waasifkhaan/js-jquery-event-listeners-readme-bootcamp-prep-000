@@ -10,7 +10,7 @@ $('img').css('tasty') )
 }
 $(document).ready(function(){
 
-frameIt()
+getIt()
 // call functions here
 
 });
