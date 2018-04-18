@@ -12,11 +12,7 @@ getIt();
 
 });
 
-function frameIt(){
-  $('img').on('load')
-  $('img').css('tasty')
 
-}
 $(document).ready(function(){
 
 frameIt()
