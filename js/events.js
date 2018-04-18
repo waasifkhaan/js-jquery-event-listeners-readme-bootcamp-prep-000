@@ -8,7 +8,7 @@ function frameIt(){
 return $('img'.tasty))
 }
 $(document).ready(function(){
-franeIt()
+frameIt();
 getIt()
 // call functions here
 
