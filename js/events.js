@@ -23,7 +23,7 @@ frameIt()
 function pressIt(){
 $('#typing').on('keydown' function(key){
   if(key.which == 83){
-        alert('G was pressed');
+      return  alert('G was pressed');
 
 })
 
