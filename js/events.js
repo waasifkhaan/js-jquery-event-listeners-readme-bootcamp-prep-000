@@ -4,7 +4,8 @@ $('p').on('click')
 return alert("Hey!")
 }
 function frameIt(){
-  $('img').css("tasty").on('load' )
+  $('img').on('load'
+$('img').css('tasty') )
 
 }
 $(document).ready(function(){
