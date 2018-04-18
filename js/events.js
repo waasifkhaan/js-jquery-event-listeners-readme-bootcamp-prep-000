@@ -10,7 +10,14 @@ return $('img'.tasty))
 $(document).ready(function(){
 
 getIt();
+
+// call functions here
+
+});
+$(document).ready(function(){
+
 frameIt();
+
 // call functions here
 
 });
