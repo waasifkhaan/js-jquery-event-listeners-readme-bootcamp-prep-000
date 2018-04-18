@@ -4,15 +4,13 @@ $('p').on('click')
 return alert("Hey!")
 }
 
-$(document).ready(function(){
-
-getIt();
-
-// call functions here
-
-});
 
 
+function frameIt(){
+  $('img').on('load')
+  $('img').css('tasty')
+
+}
 $(document).ready(function(){
 
 frameIt()
