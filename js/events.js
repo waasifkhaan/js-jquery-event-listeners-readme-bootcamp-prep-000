@@ -15,7 +15,7 @@ getIt();
 function frameIt(){
   $('img').on('load')
   $('img').css('tasty')
-  return 
+  return
 }
 $(document).ready(function(){
 
