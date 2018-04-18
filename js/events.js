@@ -6,6 +6,7 @@ return alert("Hey!")
 function frameIt(){
   $('img').on('load')
   $('img').css('tasty')
+  return;
 }
 function pressIt(){
 $('#typing').on('keydown' function(key){
@@ -15,7 +16,9 @@ $('#typing').on('keydown' function(key){
 })
 
 }}
-
+function submitIt(){
+  
+}
 $(document).ready(function(){
 
 getIt()
