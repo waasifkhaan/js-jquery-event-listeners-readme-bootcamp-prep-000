@@ -8,8 +8,9 @@ function frameIt(){
 return $('img'.tasty))
 }
 $(document).ready(function(){
+
+getIt();
 frameIt();
-getIt()
 // call functions here
 
 });
