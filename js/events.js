@@ -13,8 +13,8 @@ getIt();
 });
 
 function frameIt(){
-  $('img').on('load')
-  $('img').css('tasty')
+  $('img').on('load'
+  $('img').css('tasty'))
   return
 }
 $(document).ready(function(){
