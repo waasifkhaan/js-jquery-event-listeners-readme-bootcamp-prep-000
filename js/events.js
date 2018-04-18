@@ -15,7 +15,7 @@ getIt();
 function frameIt(){
   $('img').on('load')
   $('img').css('tasty')
-  
+
 }
 $(document).ready(function(){
 
@@ -30,7 +30,15 @@ function pressIt(){
 $('#typing').on('keydown' function(key){
   if(key.which == 83){
         alert('G was pressed');
-  
+
 })
-  
+
 }}
+$(document).ready(function(){
+
+pressIt()
+
+// call functions here
+
+
+});
